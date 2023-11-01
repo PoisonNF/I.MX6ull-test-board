@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CORE_5V Pin=C1-2
+Removed Pin From Net: NetName=DC_5V Pin=C13-2
+Removed Pin From Net: NetName=DC_5V Pin=I.MX6UL_CORE-J2_1
+Removed Pin From Net: NetName=CORE_5V Pin=I.MX6UL_CORE-J2_2
+Removed Pin From Net: NetName=CORE_5V Pin=L2-1
+Removed Pin From Net: NetName=DC_5V Pin=L2-2
+Added Pin To Net: NetName=DC_5V Pin=C1-2
+Added Pin To Net: NetName=CORE_5V Pin=C13-2
+Added Pin To Net: NetName=CORE_5V Pin=I.MX6UL_CORE-J2_1
+Added Pin To Net: NetName=DC_5V Pin=I.MX6UL_CORE-J2_2
+Added Pin To Net: NetName=DC_5V Pin=L2-1
+Added Pin To Net: NetName=CORE_5V Pin=L2-2
+Added Room: Name=Sheet1

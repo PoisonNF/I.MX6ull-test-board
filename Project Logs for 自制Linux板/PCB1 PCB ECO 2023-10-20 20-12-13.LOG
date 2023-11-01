@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=DS2 Old Footprint=LED 0805R New Footprint=LED 0603B
+Added Member To Class: ClassName=Sheet1 Member=Component ENET2 HR911105A
+Added Member To Class: ClassName=Sheet1 Member=Component R15 49.9
+Added Member To Class: ClassName=Sheet1 Member=Component R16 49.9
+Added Room: Name=Sheet1

@@ -1,0 +1,77 @@
+Added Component: Designator=I.MX6UL_CORE(I.MX6UL_CORE)
+Added Pin To Net: NetName=CSI_DATA0 Pin=I.MX6UL_CORE-J1_35
+Added Net: Name=CSI_DATA0
+Added Pin To Net: NetName=CSI_DATA1 Pin=I.MX6UL_CORE-J1_34
+Added Net: Name=CSI_DATA1
+Added Pin To Net: NetName=CSI_DATA2 Pin=I.MX6UL_CORE-J1_28
+Added Net: Name=CSI_DATA2
+Added Pin To Net: NetName=CSI_DATA3 Pin=I.MX6UL_CORE-J1_32
+Added Net: Name=CSI_DATA3
+Added Pin To Net: NetName=CSI_DATA4 Pin=I.MX6UL_CORE-J1_36
+Added Net: Name=CSI_DATA4
+Added Pin To Net: NetName=CSI_DATA5 Pin=I.MX6UL_CORE-J1_25
+Added Net: Name=CSI_DATA5
+Added Pin To Net: NetName=CSI_DATA6 Pin=I.MX6UL_CORE-J1_27
+Added Net: Name=CSI_DATA6
+Added Pin To Net: NetName=CSI_DATA7 Pin=I.MX6UL_CORE-J1_33
+Added Net: Name=CSI_DATA7
+Added Pin To Net: NetName=CSI_HSYNC Pin=I.MX6UL_CORE-J1_30
+Added Net: Name=CSI_HSYNC
+Added Pin To Net: NetName=CSI_MCLK Pin=I.MX6UL_CORE-J1_29
+Added Net: Name=CSI_MCLK
+Added Pin To Net: NetName=CSI_PIXCLK Pin=I.MX6UL_CORE-J1_26
+Added Net: Name=CSI_PIXCLK
+Added Pin To Net: NetName=CSI_VSYNC Pin=I.MX6UL_CORE-J1_31
+Added Net: Name=CSI_VSYNC
+Added Pin To Net: NetName=LCD_DATA0 Pin=I.MX6UL_CORE-J1_24
+Added Net: Name=LCD_DATA0
+Added Pin To Net: NetName=LCD_DATA1 Pin=I.MX6UL_CORE-J1_23
+Added Net: Name=LCD_DATA1
+Added Pin To Net: NetName=LCD_DATA2 Pin=I.MX6UL_CORE-J1_22
+Added Net: Name=LCD_DATA2
+Added Pin To Net: NetName=LCD_DATA3 Pin=I.MX6UL_CORE-J1_21
+Added Net: Name=LCD_DATA3
+Added Pin To Net: NetName=LCD_DATA4 Pin=I.MX6UL_CORE-J1_20
+Added Net: Name=LCD_DATA4
+Added Pin To Net: NetName=LCD_DATA5 Pin=I.MX6UL_CORE-J1_19
+Added Net: Name=LCD_DATA5
+Added Pin To Net: NetName=LCD_DATA6 Pin=I.MX6UL_CORE-J1_18
+Added Net: Name=LCD_DATA6
+Added Pin To Net: NetName=LCD_DATA7 Pin=I.MX6UL_CORE-J1_17
+Added Net: Name=LCD_DATA7
+Added Pin To Net: NetName=LCD_DATA8 Pin=I.MX6UL_CORE-J1_16
+Added Net: Name=LCD_DATA8
+Added Pin To Net: NetName=LCD_DATA9 Pin=I.MX6UL_CORE-J1_15
+Added Net: Name=LCD_DATA9
+Added Pin To Net: NetName=LCD_DATA10 Pin=I.MX6UL_CORE-J1_14
+Added Net: Name=LCD_DATA10
+Added Pin To Net: NetName=LCD_DATA11 Pin=I.MX6UL_CORE-J1_13
+Added Net: Name=LCD_DATA11
+Added Pin To Net: NetName=LCD_DATA12 Pin=I.MX6UL_CORE-J1_12
+Added Net: Name=LCD_DATA12
+Added Pin To Net: NetName=LCD_DATA13 Pin=I.MX6UL_CORE-J1_11
+Added Net: Name=LCD_DATA13
+Added Pin To Net: NetName=LCD_DATA14 Pin=I.MX6UL_CORE-J1_10
+Added Net: Name=LCD_DATA14
+Added Pin To Net: NetName=LCD_DATA15 Pin=I.MX6UL_CORE-J1_9
+Added Net: Name=LCD_DATA15
+Added Pin To Net: NetName=LCD_DATA16 Pin=I.MX6UL_CORE-J1_8
+Added Net: Name=LCD_DATA16
+Added Pin To Net: NetName=LCD_DATA17 Pin=I.MX6UL_CORE-J1_7
+Added Net: Name=LCD_DATA17
+Added Pin To Net: NetName=LCD_DATA18 Pin=I.MX6UL_CORE-J1_6
+Added Net: Name=LCD_DATA18
+Added Pin To Net: NetName=LCD_DATA19 Pin=I.MX6UL_CORE-J1_5
+Added Net: Name=LCD_DATA19
+Added Pin To Net: NetName=LCD_DATA20 Pin=I.MX6UL_CORE-J1_4
+Added Net: Name=LCD_DATA20
+Added Pin To Net: NetName=LCD_DATA21 Pin=I.MX6UL_CORE-J1_3
+Added Net: Name=LCD_DATA21
+Added Pin To Net: NetName=LCD_DATA22 Pin=I.MX6UL_CORE-J1_2
+Added Net: Name=LCD_DATA22
+Added Pin To Net: NetName=LCD_DATA23 Pin=I.MX6UL_CORE-J1_1
+Added Net: Name=LCD_DATA23
+Added Pin To Net: NetName=SD1_CLK Pin=I.MX6UL_CORE-J1_37
+Added Net: Name=SD1_CLK
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
